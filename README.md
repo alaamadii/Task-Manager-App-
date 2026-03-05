@@ -19,7 +19,7 @@ This daily schedule manager allows users to easily add, view, update, and delete
 Here is a quick look at the application in action:
 
 **Screenshot:**
-![Task Manager Screenshot](imeges/photo.png)
+![Task Manager Screenshot](Images/photo.png)
 
 **Video Walkthrough:**
 You can watch the demo video of this project here: [Demo Video](https://drive.google.com/file/d/1qWHrBKAfkwG3hAOaYvQMkgbn6k5UtX_g/view?usp=drive_link)
@@ -60,3 +60,4 @@ streamlit run app.py
 ```
 
 This will open a new tab in your default web browser displaying the application.
+
